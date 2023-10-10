@@ -1,6 +1,6 @@
 - 👋 Hi, I’m talha
 - 👀 I’m interested in Linux,bash,python and opensource devolpments.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning Bs IT in Pakistan.
 - 💞️ I’m looking to collaborate on creating a linux distro with the origion of pakistan.
 - 📫 How to reach me talhagit29@gmail.com
 
